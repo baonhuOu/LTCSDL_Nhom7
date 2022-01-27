@@ -1,0 +1,11 @@
+D:\Download\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\bin\Debug\LTCSDL-DTO.dll
+D:\Download\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\bin\Debug\LTCSDL-DTO.pdb
+D:\Download\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.csproj.CoreCompileInputs.cache
+D:\Download\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.dll
+D:\Download\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.pdb
+C:\Users\Administrator\Desktop\LTCSDL_nhom7\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\bin\Debug\LTCSDL-DTO.dll
+C:\Users\Administrator\Desktop\LTCSDL_nhom7\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\bin\Debug\LTCSDL-DTO.pdb
+C:\Users\Administrator\Desktop\LTCSDL_nhom7\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LTCSDL_nhom7\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LTCSDL_nhom7\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.dll
+C:\Users\Administrator\Desktop\LTCSDL_nhom7\Nhom7_LTCSDL_Cuoiky\Nhom7_LTCSDL_Cuoiky\LTCSDL-DTO\obj\Debug\LTCSDL-DTO.pdb
